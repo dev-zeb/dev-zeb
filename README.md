@@ -8,7 +8,6 @@ My name is *Sufi Aurangzeb Hossain*
 I've worked with Flutter for over 2 years and Next.js for over 1 year to build mobile apps and develop the backend.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at TODO.
 * ✉️  You can contact me at [azhossain.98.ah@gmail.com](mailto:azhossain.98.ah@gmail.com)
 * 🚀  I'm currently working on creating some personal projects.
 * 🧠  I'm learning React.js
