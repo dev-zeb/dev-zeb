@@ -9,8 +9,8 @@ I've worked with Flutter for over 2 years and Next.js for over 1 year to build m
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [azhossain.98.ah@gmail.com](mailto:azhossain.98.ah@gmail.com)
-* 🚀  I'm currently working on creating some personal projects.
-* 🧠  I'm learning React.js
+* 🚀  I'm currently working on creating the Delivery app (Benrimono) using Flutter and Next.js.
+* 🧠  I'm trying to learn DevOps.
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
