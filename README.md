@@ -46,11 +46,11 @@ Clean Architecture · Riverpod · Git · Agile/Scrum · Postman · REST APIs · 
 
 ### 🌟 Featured Projects
 
-- 📝 **[Zeb Notes](https://github.com/dev-zeb/zeb_notes)** – A rich note-taking app built with Flutter using Clean Architecture and Riverpod.  
-- 🗺️ **[Zeb Maps](https://github.com/dev-zeb/zeb_maps)** – A location-based companion app integrating Google Maps and route tracing.  
-- 🎯 **[Quiz Master](https://github.com/dev-zeb/quiz_master)** – A quiz creation and play app with AI-powered quiz generation (in progress).  
+- 📝** <a href="https://play.google.com/store/apps/details?id=com.dev_zeb_tech.zeb_notes" target="_blank"> <strong>Zeb Notes</strong>  </a> – A rich note-taking app built with Flutter using Clean Architecture and Riverpod.  
+- 🗺️ <a href="https://dev-zeb-portfolio.vercel.app/projects/3" target="_blank"> <strong>Zeb Maps</strong>  </a> – A location-based companion app integrating Google Maps and route tracing.  
+- 🎯 <a href="https://dev-zeb-portfolio.vercel.app/projects/2" target="_blank"> <strong>Quiz Master</strong>  </a> – A quiz creation and play app with AI-powered quiz generation (in progress).  
 
-👉 [View all my projects here](https://dev-zeb-portfolio.vercel.app/projects)
+👉  <a href="https://dev-zeb-portfolio.vercel.app/projects/" target="_blank"> <strong>View All Projects</strong>  </a>
 
 ---
 
