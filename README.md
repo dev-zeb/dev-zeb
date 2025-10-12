@@ -64,28 +64,6 @@ Clean Architecture · Riverpod · Git · Agile/Scrum · Postman · REST APIs · 
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <a href="https://github.com/dev-zeb">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-zeb&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dev-zeb">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-zeb&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dev-zeb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-zeb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ### 📈 GitHub Activity Snapshot
 
 ![GitHub Metrics](https://raw.githubusercontent.com/dev-zeb/dev-zeb/main/metrics.svg)
