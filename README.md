@@ -50,7 +50,7 @@ Clean Architecture · Riverpod · Git · Agile/Scrum · Postman · REST APIs · 
 - 🗺️ **[Zeb Maps](https://github.com/dev-zeb/zeb_maps)** – A location-based companion app integrating Google Maps and route tracing.  
 - 🎯 **[Quiz Master](https://github.com/dev-zeb/quiz_master)** – A quiz creation and play app with AI-powered quiz generation (in progress).  
 
-👉 [View all my projects here](https://github.com/dev-zeb?tab=repositories)
+👉 [View all my projects here](https://dev-zeb-portfolio.vercel.app/projects)
 
 ---
 
@@ -59,7 +59,7 @@ Clean Architecture · Riverpod · Git · Agile/Scrum · Postman · REST APIs · 
 <p align="left">
 <a href="https://github.com/dev-zeb" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" /></a>
 <a href="https://linkedin.com/in/sufiazan49" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" /></a>
-<a href="https://x.com/aurang_zeb_98" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="36" height="36" /></a>
+<a href="https://dev-zeb-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" width="36" height="36" alt="Portfolio" /></a>
 </p>
 
 ---
