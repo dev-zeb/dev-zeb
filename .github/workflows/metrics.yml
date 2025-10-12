@@ -5,24 +5,44 @@ on:
     - cron: "0 * * * *" # Runs every hour
   workflow_dispatch:
 
+# 👇 Give the workflow permission to commit the generated metrics.svg
+permissions:
+  contents: write
+  actions: read
+  issues: read
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
+          # ✅ Use a PAT with 'repo' + 'workflow' scopes, stored as METRICS_TOKEN
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # --- Basic setup ---
           user: dev-zeb
           template: classic
           base: header, activity
           config_timezone: Asia/Dhaka
+
+          # --- Plugins ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_visibility: all
           plugin_activity_filter: issue, pr, push
+
           plugin_repositories: yes
           plugin_lines: yes
           plugin_traffic: yes
           plugin_followup: yes
+
+          # --- (Optional but recommended) Output file ---
+          filename: metrics.svg
+          committer_message: "chore: update GitHub metrics [automated]"
+          config_display: columns
+          dryrun: no
