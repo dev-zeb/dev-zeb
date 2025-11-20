@@ -10,8 +10,7 @@ I’m passionate about **clean architecture**, **developer experience**, and cre
 
 * 🌍  Based in Dhaka, Bangladesh  
 * ✉️  Contact: [azhossain.98.ah@gmail.com](mailto:azhossain.98.ah@gmail.com)  
-* 🚀  Currently building the **Benrimono Delivery App** (Flutter + Next.js + Prisma)  
-* 🧠  Learning **DevOps, Docker, and Kubernetes**  
+* 🚀  Currently building the **Benrimono Delivery App** (Flutter + Next.js + PostgreSQL)  
 * 🤝  Open to collaborating on innovative mobile or AI-powered apps  
 
 ---
@@ -70,14 +69,7 @@ Clean Architecture · Riverpod · Git · Agile/Scrum · Postman · REST APIs · 
 
 ---
 
-### 🧠 Currently Exploring
-- 🚀 **Docker & Kubernetes** for deployment  
-- 🤖 **AI Integration** with Flutter for offline intelligent apps  
-- ☁️ **AWS & DevOps pipelines** for scalable backend hosting  
-
----
-
-### 💬 Quote I Live By
+### 💬 Quote
 > “Clean code always looks like it was written by someone who cares.” – Robert C. Martin
 
 ---
