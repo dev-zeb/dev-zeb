@@ -108,5 +108,4 @@ I enjoy working on products that emphasize **clean architecture**, **predictable
 
 ---
 
-👑 From [Sufi Aurangzeb Hossain (dev-zeb)](https://github.com/dev-zeb)  
-https://github.com/dev-zeb
+👑 From [Sufi Aurangzeb Hossain (dev-zeb)](https://github.com/dev-zeb)
