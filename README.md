@@ -7,14 +7,18 @@ I’m **Sufi Aurangzeb Hossain**
 
 ---
 
-I’m a **software engineer with 3+ years of professional experience**, primarily focused on building **high-quality Flutter applications** and supporting backend services where required.
+## 👤 About Me
 
-I enjoy working on products that emphasize **clean architecture**, **predictable state management**, and **long-term maintainability**. My development approach prioritizes **clear separation of concerns**, **testability**, and writing code that teams can confidently evolve over time.
+* I’m a **software engineer with 3+ years of professional experience** building mobile and full-stack applications.
+* Primarily focused on **Flutter**, with hands-on experience supporting backend systems using **Next.js**.
+* Worked in **remote and hybrid environments**, collaborating with **Japan-based stakeholders** and local engineering teams.
+* Enjoy working on products that emphasize **clean architecture**, **predictable state management**, and **long-term maintainability**.
+* My development approach prioritizes **clear separation of concerns**, **testability**, and writing code that teams can confidently maintain long-term.
 
-- 🌍 Based in Dhaka, Bangladesh  
-- ✉️ Contact: azhossain.98.ah@gmail.com  
-- 🚀 Currently working on the **Benrimono Delivery Platform** (User, Driver & Backend systems)  
-- 🤝 Open to collaborating on mobile, backend, or AI-integrated products  
+📍 Based in Dhaka, Bangladesh  
+✉️ Contact: azhossain.98.ah@gmail.com  
+🚀 Currently working on the **Benrimono Delivery Platform** (User, Driver & Backend systems)  
+🤝 Open to collaborating on mobile, backend, or AI-integrated products  
 
 ---
 
@@ -72,8 +76,8 @@ I enjoy working on products that emphasize **clean architecture**, **predictable
 
 ---
 
-### 🗺️ **ZebEd — Learn. Build. Innovate.**
-🌐 [Live Website](https://zeb-ed.vercel.app/)
+### 💡 **ZebEd — Learn. Build. Innovate.**
+🔗 [Live Website](https://zeb-ed.vercel.app/)
 
 - Educational platform built with **Next.js**  
 - Structured content delivery with modern UI/UX  
@@ -83,7 +87,7 @@ I enjoy working on products that emphasize **clean architecture**, **predictable
 
 ---
 
-## 🌐 Connect With Me
+## 💬 Connect With Me
 <p align="left">
   <a href="https://github.com/dev-zeb" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="36" height="36" />
