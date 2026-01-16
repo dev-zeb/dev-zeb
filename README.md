@@ -9,7 +9,7 @@ I’m **Sufi Aurangzeb Hossain**
 
 ## 👤 About Me
 
-* I’m a **software engineer with 3+ years of professional experience** building mobile and full-stack applications.
+* I’m a **software engineer with 4+ years of professional experience** building mobile and full-stack applications.
 * Primarily focused on **Flutter**, with hands-on experience supporting backend systems using **Next.js**.
 * Worked in **remote and hybrid environments**, collaborating with **Japan-based stakeholders** and local engineering teams.
 * Enjoy working on products that emphasize **clean architecture**, **predictable state management**, and **long-term maintainability**.
