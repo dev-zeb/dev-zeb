@@ -1,93 +1,108 @@
-Hi there! 👋  
-I’m **Sufi Aurangzeb Hossain**
-====================================================================================================================
+# Hi there! 👋  
+I'm **Sufi Aurangzeb Hossain**
 
-**Software Engineer (Flutter / Mobile & Full-Stack)**  
-@ <a href="https://www.linkedin.com/company/ninja-digital-innovations/" target="_blank" style="text-decoration:none;">Ninja Digital Innovations</a> 🇧🇩 🇯🇵
+---
+
+### 👨‍💻 Software Engineer (Flutter / Mobile Systems / Backend)  
+### **Ninja Digital Innovations** 🇧🇩 🇯🇵 
 
 ---
 
 ## 👤 About Me
 
-* I’m a **software engineer with 4+ years of professional experience** building mobile and full-stack applications.
-* Primarily focused on **Flutter**, with hands-on experience supporting backend systems using **Next.js**.
-* Worked in **remote and hybrid environments**, collaborating with **Japan-based stakeholders** and local engineering teams.
-* Enjoy working on products that emphasize **clean architecture**, **predictable state management**, and **long-term maintainability**.
-* My development approach prioritizes **clear separation of concerns**, **testability**, and writing code that teams can confidently maintain long-term.
+- Software Engineer with **4+ years of experience** building **production-grade mobile applications**
+- Specialized in **Flutter**, with hands-on experience in **backend systems (FastAPI, Next.js)**
+- Strong focus on **system design, scalable architecture, and reliable delivery pipelines**
+- Experienced working in **remote, cross-functional teams with international stakeholders**
 
-📍 Based in Dhaka, Bangladesh  
-✉️ Contact: azhossain.98.ah@gmail.com  
-🚀 Currently working on the **Benrimono Delivery Platform** (User, Driver & Backend systems)  
-🤝 Open to collaborating on mobile, backend, or AI-integrated products  
+### 🧠 Engineering Focus
+- Clean Architecture & maintainable systems
+- Offline-first application design
+- Testable and scalable codebases
+- CI/CD-driven development & automated delivery
+
+📍 Dhaka, Bangladesh  
+✉️ Email: azhossain.98.ah@gmail.com  
+🚀 Currently working on **Benrimono Delivery Platform**  
+🤝 Open to collaboration (Mobile / Backend / System Design / AI-integrated apps)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### 📱 Mobile Development
 - Flutter, Dart  
-- Next.js, TypeScript, JavaScript
-- Python, FastAPI
+- Android (Kotlin), iOS (Fundamentals, Platform Channels)  
 
 ---
 
-### Backend, APIs & AI Integration
-- REST API design and integration  
-- FastAPI-based backend services  
-- LLM API integration for **AI-powered content generation**  
-- SQL-based data access via Prisma ORM  
-- Firebase (Authentication, Analytics, Database, Notifications, etc.)  
+### 🌐 Backend & Full-Stack
+- FastAPI (Python), Next.js (TypeScript)  
+- REST API design & integration  
+- Firebase (Auth, Firestore, Notifications)  
+- Prisma ORM, SQL  
 
 ---
 
-### Architecture, Practices & Tooling
+### ⚙️ Architecture & Engineering
 - Clean Architecture (Presentation · Domain · Data)  
-- State Management: **Riverpod**, **BLoC**  
-- Unit & Widget Testing  
-- SOLID, DRY principles  
-- CI/CD fundamentals  
+- MVVM & Feature-based modular design  
+- State Management: **Riverpod, BLoC**  
+- Dependency Injection (GetIt)  
+- Offline-first systems & local-first data design  
+
+---
+
+### 🚀 Quality, Testing & DevOps
+- Unit & Widget Testing (feature-level + flow-level coverage)  
+- CI/CD pipelines using **GitHub Actions**  
+- Automated build & release (APK/AAB → Play Store)  
+- Code quality, regression safety & release automation  
+
+---
+
+### 🧰 Tools & Practices
 - Git & GitHub  
 - Agile / Scrum  
 - Postman  
 - Google Maps SDK  
+- Stripe, Agora (VoIP), third-party SDK integrations  
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🎯 **Quiz Master — Create, Play, and Learn with AI**
-📁 [View Code](https://github.com/dev-zeb/quiz_master)
+### 📝 Zeb Planner — Write Smart. Plan Better.  
+📱 [Play Store](https://play.google.com/store/apps/details?id=com.dev_zeb_tech.zeb_notes)
 
-- Quiz creation via manual input and AI-generated content  
-- Backend-driven quiz generation using **FastAPI + LLM APIs**  
-- Offline-first Flutter architecture with optional cloud sync  
-- **BLoC-based state management** with clean separation of concerns  
-- **Unit & widget tests** covering core business flows  
+- Designed and built a **scalable offline-first Flutter system** using Clean Architecture and Riverpod  
+- Implemented **full test coverage and CI/CD pipeline** (GitHub Actions) enabling automated testing, builds, and Play Store deployment  
 
 ---
 
-### 📝 **Zeb Notes — Write Smart, Plan Better**
-▶️ [Play Store](https://play.google.com/store/apps/details?id=com.dev_zeb_tech.zeb_notes)
+### 🎯 Quiz Master — AI-powered Quiz Platform  
+🔗 [Project Details](https://github.com/dev-zeb/quiz_master)
 
-- Production-ready note-taking and task management app  
-- Rich-text editing, nested todos, reminders, and analytics  
-- Offline persistence using Hive  
-- Built with **Flutter + Clean Architecture + Riverpod**  
+- Built a **modular Flutter application with BLoC** integrating AI-generated quizzes via a **FastAPI backend**  
+- Designed a **local-first architecture with optional cloud sync**, ensuring performance, reliability, and structured data flow  
 
 ---
 
-### 💡 **ZebEd — Learn. Build. Innovate.**
-🔗 [Live Website](https://zeb-ed.vercel.app/)
+### 🗺️ Zeb Maps — Location Companion  
+🔗 [Project Details](https://dev-zeb-portfolio.vercel.app/projects/3)
 
-- Educational platform built with **Next.js**  
-- Structured content delivery with modern UI/UX  
-- Optimized for performance and SEO  
-
-👉 **[View all projects](https://dev-zeb-portfolio.vercel.app/projects/)**
+- Developed a **map-centric Flutter application** using Google Maps SDK with optimized rendering and state-driven UI  
+- Focused on **performance optimization, efficient API usage, and real-time data handling patterns**  
 
 ---
 
-## 💬 Connect With Me
+👉 **View all projects:**  
+[Portfolio](https://dev-zeb-portfolio.vercel.app/projects/)
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
   <a href="https://github.com/dev-zeb" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="36" height="36" />
@@ -102,14 +117,9 @@ I’m **Sufi Aurangzeb Hossain**
 
 ---
 
-## 📈 GitHub Activity
-![GitHub Metrics](https://raw.githubusercontent.com/dev-zeb/dev-zeb/main/metrics.svg)
-
----
-
 ## 💬 Quote
 > “Actions are judged by intentions.” — Prophet Muhammad (PBUH)
 
 ---
 
-👑 From [Sufi Aurangzeb Hossain (dev-zeb)](https://github.com/dev-zeb)
+👑 From [Sufi Aurangzeb Hossain](https://github.com/dev-zeb)
